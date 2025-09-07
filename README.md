@@ -4,24 +4,24 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thilix&label=Profile%20views&color=0e75b6&style=flat" alt="thilix" /> </p>
 <hr>
 
-<h3>✨ About Me</h3>
+### ✨ About Me
 
-- 🖥️I love building desktop, mobile and web applications
+- 🖥️ I love building desktop, mobile and web applications
 - ✏️ I’m currently learning **Java Spring Boot, React.js, and REST APIs**
 - 💬 Ask me about **Java, Python, PHP, SQL, Web Development, Databases**
 - 📫 Reach me: **wickramanayakethilina95@gmail.com**
 
-<hr>
-<h3 align="left">🧩 Connect with me:</h3>
+---
+### 🧩 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/thilina-wickramanayake-1a1702195/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina-wickramanayake" height="30" width="40" /></a>
-<a href="https://fb.com/thilix01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilix01" height="30" width="40" /></a>
-<a href="https://instagram.com/thilinawick7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thilinawick7" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/thilina-wickramanayake-1a1702195/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina-wickramanayake" height="30" width="40" /></a>
+    <a href="https://fb.com/thilix01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilix01" height="30" width="40" /></a>
+    <a href="https://instagram.com/thilinawick7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thilinawick7" height="30" width="40" /></a>
 </p>
 
-<hr>
+---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
 <p align="left"> 
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -37,7 +37,7 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
 
-<hr>
+---
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=thilix&theme=dark&hide_border=false" alt="thilix" /></p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="thilix" /></p>
