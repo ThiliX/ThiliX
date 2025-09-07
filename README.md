@@ -6,10 +6,10 @@
 
 <h3>✨ About Me</h3>
 
-- 🔭 I’m currently working on **Building web applications with PHP, JavaScript, and MySQL**
-- 🌱 I’m currently learning **Java Spring Boot, React.js, and REST APIs**
+- 🖥️I love building desktop, mobile and web applications
+- ✏️ I’m currently learning **Java Spring Boot, React.js, and REST APIs**
 - 💬 Ask me about **Java, Python, PHP, SQL, Web Development, Databases**
-- 📫 How to reach me **wickramanayakethilina95@gmail.com**
+- 📫 Reach me: **wickramanayakethilina95@gmail.com**
 
 <hr>
 <h3 align="left">🧩 Connect with me:</h3>
