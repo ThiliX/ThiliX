@@ -2,13 +2,11 @@
 <h3 align="center">🎓 Software Engineering undergraduate from 🇱🇰 NSBM Green University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thilix&label=Profile%20views&color=0e75b6&style=flat" alt="thilix" /> </p>
+<hr>
 
 - 🔭 I’m currently working on **Building web applications with PHP, JavaScript, and MySQL**
-
 - 🌱 I’m currently learning **Java Spring Boot, React.js, and REST APIs**
-
 - 💬 Ask me about **Java, Python, PHP, SQL, Web Development, Databases**
-
 - 📫 How to reach me **wickramanayakethilina95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
