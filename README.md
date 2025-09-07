@@ -12,6 +12,7 @@
 - 📫 Reach me: **wickramanayakethilina95@gmail.com**
 
 ---
+
 ### 🧩 Connect with me:
 <p align="left">
     <a href="https://www.linkedin.com/in/thilina-wickramanayake-1a1702195/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina-wickramanayake" height="30" width="40" /></a>
