@@ -38,6 +38,7 @@
 </p>
 
 ---
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=thilix&theme=dark&hide_border=false" alt="thilix" /></p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="thilix" /></p>
