@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thilix&label=Profile%20views&color=0e75b6&style=flat" alt="thilix" /> </p>
 <hr>
 
-<h3>About Me</h3>
+<h3>✨ About Me</h3>
 
 - 🔭 I’m currently working on **Building web applications with PHP, JavaScript, and MySQL**
 - 🌱 I’m currently learning **Java Spring Boot, React.js, and REST APIs**
