@@ -44,12 +44,3 @@
 <p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=thilix&theme=dark&hide_border=false" alt="thilix" /></p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="thilix" /></p>
 
----
-## 🚗 Knight Rider Scanner Light
-
-Check out my Knight Rider-style light animation made with HTML, CSS, and JavaScript!
-
-![Knight Rider Animation](https://thilix.github.io/KITT2000/preview.gif)
-
-🔗 [**View Live Animation Here →**](https://thilix.github.io/KITT2000/)
-
