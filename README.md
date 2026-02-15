@@ -43,17 +43,12 @@ Git · Linux · Android Studio · Arduino · Unreal Engine
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thilix&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=thilix&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilix&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
