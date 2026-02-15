@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thilix&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Minded-0E75B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Scalable%20Systems-black?style=for-the-badge" />
 </p>
 
 ---
