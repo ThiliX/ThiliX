@@ -211,7 +211,7 @@ Currently Learning:
 
 <div align="center">
 
-###*"Imagine. Design. Build. Repeat."* 🎨
+### *"Imagine. Design. Build. Repeat."* 🎨
 </div>
 
 <br>
