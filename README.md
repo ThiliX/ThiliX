@@ -17,6 +17,7 @@
 ```yaml
 Name: Thilina Niroshan Wickramanayake
 Location: Sri Lanka 🇱🇰
+Reality: 2026
 Education: Software Engineering Undergraduate
 
 Interests:
@@ -210,8 +211,7 @@ Currently Learning:
 
 <div align="center">
 
-### *"Code. Create. Innovate. Repeat."* 🚀
-
+###*"Imagine. Design. Build. Repeat."* 🎨
 </div>
 
 <br>
