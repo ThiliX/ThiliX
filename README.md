@@ -56,51 +56,54 @@ Currently Learning:
 
 <tr>
 
+<!-- ROW 1 (7 tools) -->
+
 <td align="center" width="100">
 <a href="https://www.java.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br><br>
 <b>Java</b>
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br><br>
 <b>Python</b>
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-<img src="https://skillicons.dev/icons?i=cs" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=cs" width="48"/><br><br>
 <b>C#</b>
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://spring.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=spring" width="48"/><br><br>
 <b>Spring</b>
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><br>
 <b>MySQL</b>
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://firebase.google.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=firebase" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><br>
 <b>Firebase</b>
+</a>
+</td>
+
+<td align="center" width="100">
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+<img src="https://skillicons.dev/icons?i=idea" width="48"/><br><br>
+<b>IntelliJ</b>
 </a>
 </td>
 
@@ -108,51 +111,54 @@ Currently Learning:
 
 <tr>
 
+<!-- ROW 2 (7 tools - FIXED + Docker added) -->
+
 <td align="center" width="100">
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br><br>
 <b>Git</b>
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br><br>
 <b>GitHub</b>
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><br>
 <b>VS Code</b>
 </a>
 </td>
 
 <td align="center" width="100">
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-<img src="https://skillicons.dev/icons?i=idea" width="48"/>
-<br><br>
-<b>IntelliJ</b>
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=visualstudio" width="48"/><br><br>
+<b>Visual Studio</b>
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://www.postman.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=postman" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=postman" width="48"/><br><br>
 <b>Postman</b>
 </a>
 </td>
 
 <td align="center" width="100">
 <a href="https://www.figma.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=figma" width="48"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br><br>
 <b>Figma</b>
+</a>
+</td>
+
+<td align="center" width="100">
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br><br>
+<b>Docker</b>
 </a>
 </td>
 
