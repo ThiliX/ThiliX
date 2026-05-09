@@ -1,62 +1,221 @@
 <h1 align="center">Hi 👋, I'm Thilina Niroshan Wickramanayake</h1>
 
+<h3 align="center">
+  Software Engineering Undergraduate • Backend Developer • Tech Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Backend-Focused+Full-Stack+Developer;Spring+Boot+%7C+React+%7C+REST+APIs;Building+Scalable+and+Efficient+Systems" />
+  Passionate about building modern applications, exploring AI technologies, and creating creative digital experiences.
 </p>
 
+<br>
+
+---
+
+# 👨‍💻 Who Am I?
+
+```yaml
+Name: Thilina Niroshan Wickramanayake
+Location: Sri Lanka 🇱🇰
+Education: Software Engineering Undergraduate
+
+Interests:
+  - Fronetend Development
+  - Artificial Intelligence
+  - Discord Development
+  - Marvel & Fortnite Content
+
+Currently Learning:
+  - Spring Boot
+  - Cloud Technologies
+  - Advanced Java
+```
+
+<br>
+
+---
+
+# 🚀 What Am I Currently Working On?
+
+- 🔭 Building modern backend applications
+- 🌱 Learning advanced software engineering concepts
+- 🤖 Exploring AI & automation technologies
+- 🎮 Creating discord bots
+- ⚡ Improving UI/UX designs
+
+<br>
+
+---
+
+# 🛠️ Tools I Use
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="65"/><br><br>
+<b>Java</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br><br>
+<b>Python</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+<img src="https://skillicons.dev/icons?i=cs" width="65"/><br><br>
+<b>C#</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://spring.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=spring" width="65"/><br><br>
+<b>Spring</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br><br>
+<b>MySQL</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=firebase" width="65"/><br><br>
+<b>Firebase</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br><br>
+<b>Git</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="65"/><br><br>
+<b>GitHub</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/><br><br>
+<b>VS Code</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+<img src="https://skillicons.dev/icons?i=idea" width="65"/><br><br>
+<b>IntelliJ</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" width="65"/><br><br>
+<b>Postman</b>
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" width="65"/><br><br>
+<b>Figma</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+# 🌐 How To Reach Me
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="130">
+<a href="https://github.com/ThiliX" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="65"/><br><br>
+<b>GitHub</b>
+</a>
+</td>
+
+<td align="center" width="130">
+<a href="https://www.linkedin.com/in/thilina-wickramanayake-1a1702195/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="65"/><br><br>
+<b>LinkedIn</b>
+</a>
+</td>
+
+<td align="center" width="130">
+<a href="https://twitter.com/Thilix4Seven" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" width="65"/><br><br>
+<b>X / Twitter</b>
+</a>
+</td>
+
+<td align="center" width="130">
+<a href="mailto:wickramanayakethilina95@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="65"/><br><br>
+<b>Gmail</b>
+</a>
+</td>
+
+<td align="center" width="130">
+<a href="https://discord.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=discord" width="65"/><br><br>
+<b>Discord</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+# ⚡ Quote
+
+<div align="center">
+
+### *"Code. Create. Innovate. Repeat."* 🚀
+
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design-Scalable%20Systems-0E75B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-Clean%20Architecture-black?style=for-the-badge" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Software Engineering undergraduate** at **NSBM Green University, Sri Lanka**, passionate about designing and building scalable backend systems and modern web applications.
-
-- 🎯 Focused on backend engineering and system design  
-- ⚙️ Building enterprise-style RESTful APIs  
-- 🌱 Currently exploring **Spring Boot, React.js, and scalable architecture patterns**  
-- 🚀 Interested in high-performance and maintainable software systems  
-- 🎯 Long-term goal: **Software Architect / Backend Engineer**
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Programming Languages
-Java · Python · PHP · C# · SQL  
-
-### ⚙️ Backend Development
-Spring Boot · REST APIs · MVC · OOP · SOLID Principles  
-
-### 🌐 Frontend Development
-React.js · HTML5 · CSS3  
-
-### 🗄️ Databases
-MySQL · Database Design · Normalization  
-
-### 🛠️ Tools & Platforms
-Git · Linux · Android Studio · Arduino · Unreal Engine  
-
----
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thilina-wickramanayake-1a1702195/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:wickramanayakethilina95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>"Build systems that scale. Write code that lasts."</strong>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a11cb,100:2575fc&section=footer"/>
 </p>
