@@ -55,42 +55,42 @@ Currently Learning:
 <table>
 <tr>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://www.java.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=java" width="65"/><br><br>
 <b>Java</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" width="65"/><br><br>
 <b>Python</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
 <img src="https://skillicons.dev/icons?i=cs" width="65"/><br><br>
 <b>C#</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://spring.io/" target="_blank">
 <img src="https://skillicons.dev/icons?i=spring" width="65"/><br><br>
 <b>Spring</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" width="65"/><br><br>
 <b>MySQL</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://firebase.google.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=firebase" width="65"/><br><br>
 <b>Firebase</b>
@@ -105,42 +105,42 @@ Currently Learning:
 <table>
 <tr>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" width="65"/><br><br>
 <b>Git</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://github.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="65"/><br><br>
 <b>GitHub</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vscode" width="65"/><br><br>
 <b>VS Code</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://www.jetbrains.com/idea/" target="_blank">
 <img src="https://skillicons.dev/icons?i=idea" width="65"/><br><br>
 <b>IntelliJ</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://www.postman.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=postman" width="65"/><br><br>
 <b>Postman</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="80">
 <a href="https://www.figma.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=figma" width="65"/><br><br>
 <b>Figma</b>
@@ -163,35 +163,35 @@ Currently Learning:
 <table>
 <tr>
 
-<td align="center" width="130">
+<td align="center" width="80">
 <a href="https://github.com/ThiliX" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="65"/><br><br>
 <b>GitHub</b>
 </a>
 </td>
 
-<td align="center" width="130">
+<td align="center" width="80">
 <a href="https://www.linkedin.com/in/thilina-wickramanayake-1a1702195/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="65"/><br><br>
 <b>LinkedIn</b>
 </a>
 </td>
 
-<td align="center" width="130">
+<td align="center" width="80">
 <a href="https://twitter.com/Thilix4Seven" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter" width="65"/><br><br>
 <b>X / Twitter</b>
 </a>
 </td>
 
-<td align="center" width="130">
+<td align="center" width="80">
 <a href="mailto:wickramanayakethilina95@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="65"/><br><br>
 <b>Gmail</b>
 </a>
 </td>
 
-<td align="center" width="130">
+<td align="center" width="80">
 <a href="https://discord.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=discord" width="65"/><br><br>
 <b>Discord</b>
