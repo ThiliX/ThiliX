@@ -18,9 +18,9 @@
       <img src="https://raw.githubusercontent.com/ThiliX/ThiliX/main/assets/zp.gif" width="100%" alt="Profile Banner"/>
     </td>
     <td width="42%" valign="middle" style="border:none;">
-      <div align="center">
+      <!-- <div align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=180&lines=Machine+Learning;Deep+Learning;MLOps+%26+AI+Infrastructure;LLM+Engineering+%26+AI+Agents;NLP+%26+Generative+AI" alt="Typing Animation"/>
-      </div>
+      </div> -->
     </td>
   </tr>
 </table>
