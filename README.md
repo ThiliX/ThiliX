@@ -9,7 +9,7 @@
   Passionate about building modern applications, exploring AI technologies, and creating creative digital experiences.
 </p>
 <br>
-<img src="https://komarev.com/ghpvc/?username=roshana1s&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ThiliX&label=Profile%20Views&color=fc3f3f&style=flat" alt="Profile Views"/>
 </div>
 <br>
 <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border:none; border-collapse:collapse;">
@@ -20,7 +20,7 @@
     <td width="42%" valign="middle" style="border:none;">
       <div align="center">
         <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=180&lines=Frontend+Development;Artificial+Intelligence;Discord+Development" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=fc3f3f&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=180&lines=Frontend+Development;Artificial+Intelligence;Discord+Development" 
     alt="Typing Animation"
   />
         </div>
