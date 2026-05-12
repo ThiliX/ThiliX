@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thilina Niroshan Wickramanayake</h1>
 
 <h3>
-  Software Engineering Undergraduate • Backend Developer • Tech Enthusiast
+  Software Engineering Undergraduate • Frontend Developer • Tech Enthusiast
 </h3>
 
 <p>
