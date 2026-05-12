@@ -1,18 +1,21 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Thilina Niroshan Wickramanayake</h1>
 
-<h3 align="center">
+<h3>
   Software Engineering Undergraduate • Backend Developer • Tech Enthusiast
 </h3>
 
-<p align="center">
+<p>
   Passionate about building modern applications, exploring AI technologies, and creating creative digital experiences.
 </p>
-
+<br>
+<img src="https://komarev.com/ghpvc/?username=roshana1s&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views"/>
+</div>
 <br>
 
 ---
 
-# 👨‍💻 Who Am I?
+<h2>👨‍💻 Who Am I? </h2>
 
 ```yaml
 Name: Thilina Niroshan Wickramanayake
@@ -36,7 +39,7 @@ Currently Learning:
 
 ---
 
-# 🚀 What Am I Currently Working On?
+<h2>🚀 What Am I Currently Working On? </h2>
 
 - 🔭 Building modern backend applications
 - 🌱 Learning advanced software engineering concepts
@@ -48,7 +51,7 @@ Currently Learning:
 
 ---
 
-# 🛠️ Tools I Use
+<h2> 🛠️ Tools I Use </h2>
 
 <div align="center">
 
@@ -172,7 +175,7 @@ Currently Learning:
 
 ---
 
-# 🌐 How To Reach Me
+<h2> 🌐 How To Reach Me </h2>
 
 <div align="center">
 
@@ -230,15 +233,11 @@ Currently Learning:
 
 ---
 
-# ⚡ Quote
-
 <div align="center">
 
 ### *"Imagine. Design. Build. Repeat."* 🎨
 
 </div>
-
-<br>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a11cb,100:2575fc&section=footer"/>
