@@ -1,5 +1,6 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Thilina Niroshan Wickramanayake</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=FC3F3F&background=5D53FF00&center=true&width=435&lines=%3CHello+%2F%3E+I'm+ThiliX" alt="Typing SVG" /></a>
+<!-- <h1 align="center">Hi 👋, I'm Thilina Niroshan Wickramanayake</h1> -->
 
 <h3>
   Software Engineering Undergraduate • Frontend Developer • Tech Enthusiast
@@ -14,15 +15,15 @@
 <br>
 <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border:none; border-collapse:collapse;">
   <tr style="border:none;">
-    <td width="58%" valign="middle" style="border:none;">
+    <td width="42%" valign="middle" style="border:none;">
       <img src="https://raw.githubusercontent.com/ThiliX/ThiliX/main/assets/zp.gif" width="100%" alt="Profile Banner"/>
     </td>
-    <td width="42%" valign="middle" style="border:none;">
-      <div align="center">
-        <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=fc3f3f&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=180&lines=Frontend+Development;Artificial+Intelligence;Discord+Development" 
-    alt="Typing Animation"
-  />
+    <td width="52%" valign="middle" style="border:none;">
+      <div align="center">      
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=fc3f3f&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=510&height=180&lines=Aspiring+Software+Engineer;Passionate+about+AI%2C+Web+Development%2C;And+Creative+Tech+Projects." 
+  alt="Typing Animation"
+/>
         <img src="https://raw.githubusercontent.com/ThiliX/ThiliX/main/assets/kitt.gif" width="100%" alt="Profile Banner"/>
         </div>
     </td>
