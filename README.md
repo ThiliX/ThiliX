@@ -1,114 +1,70 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=FC3F3F&background=5D53FF00&center=true&width=435&lines=%3CHello+%2F%3E+I'm+ThiliX" alt="Typing SVG" />
-</a>
+# Hi, I'm Thilina Wickramanayake 👋
 
-<h3>Software Engineering Undergraduate • Frontend Developer • Tech Enthusiast</h3>
+**Software Engineering Undergraduate · Full-Stack Developer · Cloud & DevOps Enthusiast**
 
-<p>Passionate about building modern applications, exploring AI technologies, and creating creative digital experiences.</p>
+I build full-stack web applications, from React interfaces to .NET, Spring Boot and Python backends, and ship them with Docker, CI pipelines and Kubernetes.
 
-<img src="https://komarev.com/ghpvc/?username=ThiliX&label=Profile%20Views&color=fc3f3f&style=flat" alt="Profile Views"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-thilix.github.io-FF6B1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thilix.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thilix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thilix/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wickramanayakethilina95@gmail.com)
 
-</div>
-
-<br>
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border:none; border-collapse:collapse;">
-  <tr style="border:none;">
-    <td width="42%" valign="middle" style="border:none;">
-      <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=fc3f3f&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=510&height=180&lines=Aspiring+Software+Engineer;Passionate+about+AI%2C+Web+Development%2C;And+Creative+Tech+Projects." alt="Typing Animation"/>
-        <img src="https://raw.githubusercontent.com/ThiliX/ThiliX/main/assets/kitt.gif" width="100%" alt="Profile Banner"/>
-      </div>
-    </td>
-    <td width="52%" valign="middle" style="border:none;">
-      <img src="https://raw.githubusercontent.com/ThiliX/ThiliX/main/assets/zp.gif" width="100%" alt="Profile Banner"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 👨‍💻 Who Am I?
-
-```yaml
-Name: Thilina Niroshan Wickramanayake
-Location: Sri Lanka 🇱🇰
-Reality: 2026
-Education: Software Engineering Undergraduate
-
-Interests:
-  - Frontend Development
-  - Artificial Intelligence
-  - Discord Development
-  - Marvel & Fortnite Content
-
-Currently Learning:
-  - Spring Boot
-  - Cloud Technologies
-  - Advanced Java
-```
-
----
-
-## 🚀 What Am I Currently Working On?
-
-- 🔭 Building modern backend applications
-- 🌱 Learning advanced software engineering concepts
-- 🤖 Exploring AI & automation technologies
-- 🎮 Creating Discord bots
-- ⚡ Improving UI/UX designs
-
----
-
-## 🛠️ Tools I Use
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="100"><a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><br><b>Java</b></a></td>
-    <td align="center" width="100"><a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><br><b>Python</b></a></td>
-    <td align="center" width="100"><a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br><br><b>C#</b></a></td>
-    <td align="center" width="100"><a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br><br><b>Spring</b></a></td>
-    <td align="center" width="100"><a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><br><b>MySQL</b></a></td>
-    <td align="center" width="100"><a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><br><b>Firebase</b></a></td>
-    <td align="center" width="100"><a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br><br><b>IntelliJ</b></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><br><b>Git</b></a></td>
-    <td align="center" width="100"><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><br><b>GitHub</b></a></td>
-    <td align="center" width="100"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><br><b>VS Code</b></a></td>
-    <td align="center" width="100"><a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" width="48"/><br><br><b>Visual Studio</b></a></td>
-    <td align="center" width="100"><a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br><br><b>Postman</b></a></td>
-    <td align="center" width="100"><a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br><br><b>Figma</b></a></td>
-    <td align="center" width="100"><a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br><br><b>Docker</b></a></td>
-  </tr>
-</table>
 </div>
 
 ---
 
-## 🌐 How To Reach Me
+## About me
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="100"><a href="https://github.com/ThiliX" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><br><b>GitHub</b></a></td>
-    <td align="center" width="100"><a href="https://www.linkedin.com/in/thilina-wickramanayake-1a1702195/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/><br><br><b>LinkedIn</b></a></td>
-    <td align="center" width="100"><a href="https://twitter.com/Thilix4Seven" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="48"/><br><br><b>X</b></a></td>
-    <td align="center" width="100"><a href="mailto:wickramanayakethilina95@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/><br><br><b>Gmail</b></a></td>
-    <td align="center" width="100"><a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="48"/><br><br><b>Discord</b></a></td>
-  </tr>
-</table>
-</div>
+- 🎓 Software Engineering undergraduate at **NSBM Green University**, Sri Lanka (graduating 2028)
+- 💻 Full-stack developer: **React + TypeScript** on the frontend; **C#/.NET**, **Java/Spring Boot** and **Python** on the backend
+- ☁️ Focused on **cloud and DevOps**: containers, CI/CD and Kubernetes; took part in the AzureX 2026 Azure Fundamentals workshop
+- 🔒 Security-minded: I design for real-world risks like SSRF and failure handling from the start
+- 🌱 I learn by building, so most new topics end up as a project here
+
+---
+
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[PulseWatch](https://github.com/ThiliX/pulsewatch)** | Self-hostable API monitoring: scheduled checks, incidents, email alerts with a transactional outbox, uptime and p95 dashboards, and four-layer SSRF protection. | C# · .NET · EF Core · PostgreSQL · React · TypeScript · Docker |
+| **[TalentIQ](https://github.com/TalentIq-team/talentIQ)** | AI-assisted recruitment platform (team of 6). **I owned the AI module**: Gemini-based résumé-to-job matching, fallback scoring and the screening UI. | ASP.NET Core · SQL Server · Gemini API · React · TypeScript |
+| **[ThiliX's Battlestation](https://github.com/ThiliX/Retro-Computer)** · [▶ Live](https://thilix.github.io/Retro-Computer/) | Interactive 3D room that boots a working 90s-style OS, with every model, texture and sound generated in code. | React · three.js · Web Audio API |
+| **[DevOps Pipeline Practical](https://github.com/ThiliX/devops-practical)** | A Flask app taken through CI with tests, a Docker image, a Kubernetes deployment with 2 replicas, and a self-healing chaos test. | Python · Flask · GitHub Actions · Docker · Kubernetes |
+
+➡️ More projects with screenshots on my **[portfolio](https://thilix.github.io/)**.
+
+---
+
+## Tech stack
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=py,ts,js,cs,java,dart&perline=10" alt="Python, TypeScript, JavaScript, C#, Java, Dart" />
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,threejs,html,css,vite&perline=10" alt="React, Tailwind CSS, three.js, HTML, CSS, Vite" />
+
+**Backend & databases**<br>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,flask,postgres,mysql&perline=10" alt=".NET, Spring Boot, Flask, PostgreSQL, MySQL" />
+
+**Cloud & DevOps**<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure,linux,bash&perline=10" alt="Docker, Kubernetes, GitHub Actions, Azure, Linux, Bash" />
+
+**Mobile & tools**<br>
+<img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,visualstudio,idea,postman&perline=10" alt="Flutter, Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, Postman" />
+
+---
+
+## Currently
+
+- ☁️ Going deeper into **cloud computing**: deployment, infrastructure and observability
+- 🧩 Contributing to a university group project on AI-assisted DevOps tooling
 
 ---
 
 <div align="center">
 
-### *"Imagine. Design. Build. Repeat."* 🎨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a11cb,100:2575fc&section=footer"/>
+*Imagine. Design. Build. Repeat.*
 
 </div>
