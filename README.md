@@ -123,6 +123,7 @@ Currently Learning:
     <td align="center" width="100"><a href="https://github.com/ThiliX" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><br><b>GitHub</b></a></td>
     <td align="center" width="100"><a href="https://www.linkedin.com/in/thilix/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/><br><br><b>LinkedIn</b></a></td>
     <td align="center" width="100"><a href="https://twitter.com/Thilix4Seven" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="48"/><br><br><b>X</b></a></td>
+    <td align="center" width="100"><a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="48"/><br><br><b>Discord</b></a></td>
     <td align="center" width="100"><a href="mailto:wickramanayakethilina95@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/><br><br><b>Gmail</b></a></td>
   </tr>
 </table>
