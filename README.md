@@ -71,6 +71,7 @@ Currently Learning:
 | Project | Description | Stack |
 |---|---|---|
 | [**PulseWatch**](https://github.com/ThiliX/pulsewatch) | Self-hostable API monitoring with incidents, email alerts, uptime dashboards and SSRF protection | C# · .NET · PostgreSQL · React · Docker |
+| [**Servora**](https://github.com/ThiliX/Servora) | Multi-tenant AI customer-support platform: cited answers from each business's documents, Row-Level Security isolation and AI-to-human handoff | Spring Boot · FastAPI · pgvector · React |
 | [**TalentIQ**](https://github.com/TalentIq-team/talentIQ) | AI-assisted recruitment platform (team project). I built the AI module: Gemini résumé matching and fallback scoring | ASP.NET Core · React · Gemini API |
 | [**Portfolio XP**](https://github.com/ThiliX/Retro-Computer) · [▶ Live](https://thilix.github.io/Retro-Computer/) | Portfolio that boots like an early-2000s PC, with windows, a Start menu and built-in apps | React · JavaScript · Web Audio |
 | [**DevOps Practical**](https://github.com/ThiliX/devops-practical) | Flask app through CI, Docker Hub and Kubernetes with a self-healing chaos test | Python · GitHub Actions · Docker · Kubernetes |
