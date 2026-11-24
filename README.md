@@ -8,7 +8,7 @@
 
 <p>Building full-stack apps with React, .NET, Spring Boot and Python, and shipping them with Docker & Kubernetes.</p>
 
-<a href="https://thilix.github.io/"><img src="https://img.shields.io/badge/Portfolio-thilix.github.io-fc3f3f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://thilix.github.io/"><img src="./assets/badges/portfolio-thilix-github-io-fc3f3f.svg" alt="Portfolio"/></a>
 <img src="https://komarev.com/ghpvc/?username=ThiliX&label=Profile%20Views&color=fc3f3f&style=flat" alt="Profile Views"/>
 
 <br><br>
@@ -22,7 +22,7 @@
 </div>
 
 <details open>
-<summary><b>pulsewatch</b> · API monitoring &amp; alerts &nbsp;<img src="https://img.shields.io/github/actions/workflow/status/ThiliX/pulsewatch/ci.yml?label=CI&style=flat-square" alt="CI"/> <img src="https://img.shields.io/badge/self--hostable-fc3f3f?style=flat-square" alt="self-hostable"/></summary>
+<summary><b>pulsewatch</b> · API monitoring &amp; alerts &nbsp;<img src="https://github.com/ThiliX/pulsewatch/actions/workflows/ci.yml/badge.svg" alt="CI"/> <img src="./assets/badges/self-hostable-fc3f3f.svg" alt="self-hostable"/></summary>
 <br>
 
 Self-hostable API monitoring with incidents, email alerts, uptime dashboards and SSRF protection.<br>
@@ -31,7 +31,7 @@ Self-hostable API monitoring with incidents, email alerts, uptime dashboards and
 </details>
 
 <details>
-<summary><b>servora</b> · multi-tenant AI support &nbsp;<img src="https://img.shields.io/github/actions/workflow/status/ThiliX/Servora/ci.yml?label=CI&style=flat-square" alt="CI"/> <img src="https://img.shields.io/badge/pgvector-RAG-1f6feb?style=flat-square" alt="pgvector RAG"/></summary>
+<summary><b>servora</b> · multi-tenant AI support &nbsp;<img src="https://github.com/ThiliX/Servora/actions/workflows/ci.yml/badge.svg" alt="CI"/> <img src="./assets/badges/pgvector-rag-1f6feb.svg" alt="pgvector RAG"/></summary>
 <br>
 
 Cited answers from each business's own documents, Row-Level Security isolation and AI-to-human handoff.<br>
@@ -40,7 +40,7 @@ Cited answers from each business's own documents, Row-Level Security isolation a
 </details>
 
 <details>
-<summary><b>talentiq</b> · AI recruitment (team) &nbsp;<img src="https://img.shields.io/badge/.NET-core-512bd4?style=flat-square" alt=".NET"/> <img src="https://img.shields.io/badge/role-AI%20module-6e7681?style=flat-square" alt="role: AI module"/></summary>
+<summary><b>talentiq</b> · AI recruitment (team) &nbsp;<img src="./assets/badges/net-core-512bd4.svg" alt=".NET"/> <img src="./assets/badges/role-ai-module-6e7681.svg" alt="role: AI module"/></summary>
 <br>
 
 Team project. I built the AI module: Gemini résumé matching with fallback scoring.<br>
@@ -49,7 +49,7 @@ Team project. I built the AI module: Gemini résumé matching with fallback scor
 </details>
 
 <details>
-<summary><b>portfolio-xp</b> · boots like a 2000s PC &nbsp;<img src="https://img.shields.io/badge/demo-live-3fb950?style=flat-square" alt="demo live"/></summary>
+<summary><b>portfolio-xp</b> · boots like a 2000s PC &nbsp;<img src="./assets/badges/demo-live-3fb950.svg" alt="demo live"/></summary>
 <br>
 
 Portfolio that boots like an early-2000s PC, with windows, a Start menu and built-in apps.<br>
@@ -58,7 +58,7 @@ Portfolio that boots like an early-2000s PC, with windows, a Start menu and buil
 </details>
 
 <details>
-<summary><b>devops-practical</b> · CI → Docker Hub → K8s &nbsp;<img src="https://img.shields.io/github/actions/workflow/status/ThiliX/devops-practical/ci.yml?label=CI&style=flat-square" alt="CI"/> <img src="https://img.shields.io/badge/chaos-self--healed-fc3f3f?style=flat-square" alt="chaos test: self-healed"/></summary>
+<summary><b>devops-practical</b> · CI → Docker Hub → K8s &nbsp;<img src="https://github.com/ThiliX/devops-practical/actions/workflows/ci.yml/badge.svg" alt="CI"/> <img src="./assets/badges/chaos-self-healed-fc3f3f.svg" alt="chaos test: self-healed"/></summary>
 <br>
 
 Flask app through CI, Docker Hub and Kubernetes, verified by a self-healing chaos test.<br>
@@ -106,9 +106,9 @@ status        ● open to internships
       <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet" width="40" alt="ASP.NET" title="ASP.NET"/></a>
       <a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven" width="40" alt="Apache Maven" title="Apache Maven"/></a>
       <br>
-      <img src="https://img.shields.io/badge/REST%20APIs-242938?style=flat-square" alt="REST APIs"/>
-      <img src="https://img.shields.io/badge/JWT%20Auth-242938?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Auth"/>
-      <img src="https://img.shields.io/badge/discord.py-242938?style=flat-square&logo=discord&logoColor=white" alt="discord.py"/>
+      <img src="./assets/badges/rest-apis-242938.svg" alt="REST APIs"/>
+      <img src="./assets/badges/jwt-auth-242938.svg" alt="JWT Auth"/>
+      <img src="./assets/badges/discord-py-242938.svg" alt="discord.py"/>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ status        ● open to internships
       <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="40" alt="Flutter" title="Flutter"/></a>
       <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="40" alt="Android Studio" title="Android Studio"/></a>
       <br>
-      <img src="https://img.shields.io/badge/Android%20SDK-242938?style=flat-square&logo=android&logoColor=3DDC84" alt="Android SDK"/>
+      <img src="./assets/badges/android-sdk-242938.svg" alt="Android SDK"/>
     </td>
   </tr>
   <tr>
@@ -127,16 +127,16 @@ status        ● open to internships
       <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL"/></a>
       <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" title="Firebase"/></a>
       <br>
-      <img src="https://img.shields.io/badge/MySQL%20Workbench-242938?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL Workbench"/>
+      <img src="./assets/badges/mysql-workbench-242938.svg" alt="MySQL Workbench"/>
     </td>
   </tr>
   <tr>
     <td><b>AI &amp; Automation</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Google%20Gemini%20API-242938?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini API"/>
-      <img src="https://img.shields.io/badge/n8n-242938?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n"/>
-      <img src="https://img.shields.io/badge/AI%20API%20Integration-242938?style=flat-square" alt="AI API Integration"/>
-      <img src="https://img.shields.io/badge/RAG-242938?style=flat-square" alt="RAG"/>
+      <img src="./assets/badges/google-gemini-api-242938.svg" alt="Google Gemini API"/>
+      <img src="./assets/badges/n8n-242938.svg" alt="n8n"/>
+      <img src="./assets/badges/ai-api-integration-242938.svg" alt="AI API Integration"/>
+      <img src="./assets/badges/rag-242938.svg" alt="RAG"/>
     </td>
   </tr>
   <tr>
@@ -147,8 +147,8 @@ status        ● open to internships
       <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" title="GitHub Actions"/></a>
       <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="40" alt="Microsoft Azure" title="Microsoft Azure"/></a>
       <br>
-      <img src="https://img.shields.io/badge/Docker%20Compose-242938?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker Compose"/>
-      <img src="https://img.shields.io/badge/Docker%20Desktop-242938?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker Desktop"/>
+      <img src="./assets/badges/docker-compose-242938.svg" alt="Docker Compose"/>
+      <img src="./assets/badges/docker-desktop-242938.svg" alt="Docker Desktop"/>
     </td>
   </tr>
   <tr>
@@ -161,8 +161,8 @@ status        ● open to internships
       <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" title="VS Code"/></a>
       <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" width="40" alt="Visual Studio" title="Visual Studio"/></a>
       <br>
-      <img src="https://img.shields.io/badge/XAMPP-242938?style=flat-square&logo=xampp&logoColor=FB7A24" alt="XAMPP"/>
-      <img src="https://img.shields.io/badge/Antigravity%20IDE-242938?style=flat-square" alt="Antigravity IDE"/>
+      <img src="./assets/badges/xampp-242938.svg" alt="XAMPP"/>
+      <img src="./assets/badges/antigravity-ide-242938.svg" alt="Antigravity IDE"/>
     </td>
   </tr>
 </table>
